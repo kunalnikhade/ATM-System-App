@@ -1,0 +1,119 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "MiniStatement",
+            "request": "launch",
+            "mainClass": "MiniStatement",
+            "projectName": "ATM System_8c276dee"
+        },
+        {
+            "type": "java",
+            "name": "BalanceEnquiry",
+            "request": "launch",
+            "mainClass": "BalanceEnquiry",
+            "projectName": "ATM System_8c276dee"
+        },
+        {
+            "type": "java",
+            "name": "BalanceEnquiry",
+            "request": "launch",
+            "mainClass": "Icons.BalanceEnquiry",
+            "projectName": "ATM System_8c276dee"
+        },
+        {
+            "type": "java",
+            "name": "PinChange",
+            "request": "launch",
+            "mainClass": "PinChange",
+            "projectName": "ATM System_8c276dee"
+        },
+        {
+            "type": "java",
+            "name": "FastCash",
+            "request": "launch",
+            "mainClass": "FastCash",
+            "projectName": "ATM System_8c276dee"
+        },
+        {
+            "type": "java",
+            "name": "Fastcash",
+            "request": "launch",
+            "mainClass": "Fastcash",
+            "projectName": "ATM System_8c276dee"
+        },
+        {
+            "type": "java",
+            "name": "Withdraw",
+            "request": "launch",
+            "mainClass": "Withdraw",
+            "projectName": "ATM System_8c276dee"
+        },
+        {
+            "type": "java",
+            "name": "Deposit",
+            "request": "launch",
+            "mainClass": "Deposit",
+            "projectName": "ATM System_8c276dee"
+        },
+        {
+            "type": "java",
+            "name": "Transaction",
+            "request": "launch",
+            "mainClass": "Transaction",
+            "projectName": "ATM System_8c276dee"
+        },
+        {
+            "type": "java",
+            "name": "SignupThree",
+            "request": "launch",
+            "mainClass": "SignupThree",
+            "projectName": "ATM System_8c276dee"
+        },
+        {
+            "type": "java",
+            "name": "Signup3",
+            "request": "launch",
+            "mainClass": "Signup3",
+            "projectName": "ATM System_8c276dee"
+        },
+        {
+            "type": "java",
+            "name": "Signup2",
+            "request": "launch",
+            "mainClass": "Signup2",
+            "projectName": "ATM System_8c276dee"
+        },
+        {
+            "type": "java",
+            "name": "Signup1",
+            "request": "launch",
+            "mainClass": "Signup1",
+            "projectName": "ATM System_8c276dee"
+        },
+        {
+            "type": "java",
+            "name": "SignupOne",
+            "request": "launch",
+            "mainClass": "SignupOne",
+            "projectName": "ATM System_8c276dee"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Login",
+            "request": "launch",
+            "mainClass": "Login",
+            "projectName": "ATM System_8c276dee"
+        }
+    ]
+}
